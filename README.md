@@ -1,2 +1,2 @@
 # DLS
-Notebooks to ML course
+Notebooks with DS/ML projects
